@@ -1,0 +1,13 @@
+CHIP Xor {
+    IN a, b;
+    OUT out;
+
+    PARTS:
+    // primeira camada de nands
+    Nand(a=a , b=b , out=nand1 );
+    // segunda camada de nands
+    Nand(a=a , b=nand1 , out=nand2 );
+    Nand(a=b , b=nand1 , out=nand3 );
+    // terceira camada de nands
+    Nand(a=nand2 , b=nand3 , out=out );
+}
