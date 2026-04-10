@@ -1,4 +1,4 @@
-<h1 align="center">💻 Nand2Tetris Project</h1>
+<h1 align="center">Nand2Tetris Project</h1>
 
 <p align="center">
   <b>Academic Extension & Research Project</b><br>
@@ -13,7 +13,7 @@
 
 ---
 
-## 📖 About the Project
+## About the Project
 
 This repository documents my journey through the **Nand2Tetris** project, developed as part of an academic extension and research initiative at the **Federal University of Santa Maria (UFSM)**.
 
@@ -23,16 +23,16 @@ As part of UFSM's academic environment, this project represents not only a techn
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
-- 🧠 Understand computer systems from the ground up  
-- ⚙️ Build hardware and software components from scratch  
-- 🔍 Strengthen analytical and problem-solving skills  
-- 🔗 Explore the interaction between hardware and software  
+- Understand computer systems from the ground up  
+- Build hardware and software components from scratch  
+- Strengthen analytical and problem-solving skills  
+- Explore the interaction between hardware and software  
 
 ---
 
-## 🏛️ About UFSM
+## About UFSM
 
 The **Federal University of Santa Maria (UFSM)** is one of Brazil’s leading public universities, recognized for its commitment to academic excellence, research, and innovation.
 
@@ -40,7 +40,7 @@ This project is developed within the context of an **academic extension initiati
 
 ---
 
-## 🚀 Technologies & Topics
+## Technologies & Topics
 
 - Boolean Algebra  
 - Logic Gates & Digital Circuits  
